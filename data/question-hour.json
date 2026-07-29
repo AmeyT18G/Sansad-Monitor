@@ -1,0 +1,32 @@
+{
+  "mps": [
+    {"name":"Shashi Tharoor","party":"INC","house":"LS","questions":47,"topics":["Technology","Civil Liberties","Foreign Affairs"]},
+    {"name":"Manish Tewari","party":"INC","house":"LS","questions":41,"topics":["Defence","Legal Reform"]},
+    {"name":"Derek O'Brien","party":"TMC","house":"RS","questions":38,"topics":["Education","Constitutional Rights"]},
+    {"name":"Mahua Moitra","party":"TMC","house":"LS","questions":36,"topics":["Finance","Corruption"]},
+    {"name":"Sanjay Singh","party":"AAP","house":"RS","questions":34,"topics":["Delhi Governance","Environment"]},
+    {"name":"Priyanka Chaturvedi","party":"Shiv Sena UBT","house":"RS","questions":32,"topics":["Women's Safety","Technology"]},
+    {"name":"Kapil Sibal","party":"Independent","house":"RS","questions":29,"topics":["Judiciary","Civil Liberties"]},
+    {"name":"T.R. Baalu","party":"DMK","house":"LS","questions":27,"topics":["Transport","Tamil Nadu issues"]}
+  ],
+  "ministries": [
+    {"name":"Home Affairs","questions":142,"color":"#e8660a"},
+    {"name":"Finance","questions":128,"color":"#1a5fa8"},
+    {"name":"Railways","questions":115,"color":"#1a7a3c"},
+    {"name":"Health","questions":98,"color":"#5a3ea0"},
+    {"name":"Education","questions":87,"color":"#c97d1a"},
+    {"name":"Electronics & IT","questions":76,"color":"#b83232"},
+    {"name":"External Affairs","questions":64,"color":"#444"}
+  ],
+  "topics": ["Delimitation","Data Privacy","Waqf Amendment","Cancer Care","AI Regulation","Electoral Bonds","Manipur","Border Security","Digital India","MGNREGA","Women's Safety","Defence Procurement"],
+  "questions": [
+    {"mp":"Shashi Tharoor","party":"INC","house":"LS","ministry":"Electronics & IT","topic":"Data Privacy","date":"Apr 14, 2026","question":"Whether the Government is satisfied that the DPDP Rules 2025 provide adequate protection for children's data given the inadequacy of age verification mechanisms currently proposed?","type":"Starred"},
+    {"mp":"Derek O'Brien","party":"TMC","house":"RS","ministry":"Home Affairs","topic":"Manipur","date":"Apr 12, 2026","question":"Number of relief camps still operational in Manipur, current count of internally displaced persons, and steps taken for permanent rehabilitation of displaced communities.","type":"Unstarred"},
+    {"mp":"Manish Tewari","party":"INC","house":"LS","ministry":"Home Affairs","topic":"Delimitation","date":"Apr 11, 2026","question":"Whether the Government has conducted an impact assessment on the seat loss for southern states under the proposed delimitation based on the 2011 census?","type":"Starred"},
+    {"mp":"Mahua Moitra","party":"TMC","house":"LS","ministry":"Finance","topic":"Electoral Bonds","date":"Apr 10, 2026","question":"Total amount of electoral bonds purchased and encashed by political parties since inception, party-wise breakdown, and status of Supreme Court compliance.","type":"Starred"},
+    {"mp":"Sanjay Singh","party":"AAP","house":"RS","ministry":"Environment","topic":"Delhi Pollution","date":"Apr 9, 2026","question":"Specific timeline for operationalisation of 10 pending waste-to-energy plants in Delhi NCR, and steps to hold polluting industries accountable under the Graded Response Action Plan.","type":"Unstarred"},
+    {"mp":"Priyanka Chaturvedi","party":"Shiv Sena UBT","house":"RS","ministry":"Electronics & IT","topic":"AI Regulation","date":"Apr 8, 2026","question":"Whether the Government has a timeline for introducing a dedicated AI regulatory framework, and whether India plans to align with the EU AI Act classification of high-risk AI systems?","type":"Starred"},
+    {"mp":"Kapil Sibal","party":"Independent","house":"RS","ministry":"Law & Justice","topic":"Judiciary","date":"Apr 7, 2026","question":"Current pendency figures in the Supreme Court, High Courts, and district courts; specific steps taken under the e-Courts Phase III to reduce backlog; and whether judicial appointments are on track.","type":"Starred"},
+    {"mp":"T.R. Baalu","party":"DMK","house":"LS","ministry":"Finance","topic":"Delimitation","date":"Apr 7, 2026","question":"Whether the Government has evaluated the fiscal implications of expanding Lok Sabha to 850 seats — infrastructure costs, salaries, and Parliamentary precinct expansion — and if so, the projected estimate.","type":"Unstarred"}
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  {"date":"29 Jul 2026","note":"Migrated all data out of index.html into separate JSON files in /data/. Page now fetches fresh data on every load. No more hardcoded arrays in HTML."},
+  {"date":"21 Apr 2026","note":"Major rebuild: added Voting Records, Question Hour tracker, Legislative Velocity, Supreme Court Watch, Constitutional Amendments timeline, and Discussion Hours in bill drawers."},
+  {"date":"20 Apr 2026","note":"Committee timeline drawers added with past/present/future phases for all committees."},
+  {"date":"19 Apr 2026","note":"Dashboard launched. 16 bills, 15 MP profiles, 8 committees."},
+  {"date":"16 Apr 2026","note":"Three Delimitation Bills added from Budget Session 2026."},
+  {"date":"01 Feb 2026","note":"Finance Bill 2026 and Appropriation Bill 2026 added."}
+]
